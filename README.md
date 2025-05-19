@@ -23,7 +23,7 @@ Adjusts game based on those metrics
   - Wall Buy ammo cost,
   - Max Ammo drop chance. 
 
-Metrics are changed by the corresponding performance, poor accuracy will lead to ammo cost being decreased and ammo drops increased. Low Damage taken will result in AI Damage getting buffed. Quickly completing rounds will cause the AI to more, faster, have more health and be quicker. 
+Metrics are changed by the corresponding performance, poor accuracy will lead to ammo cost being decreased and ammo drops increased. Low Damage taken will result in AI Damage getting buffed. Quickly completing rounds will cause the AI to spawn more, have more health and be quicker. 
 Each metric also has a range which they can change between and has a capped change per round, making the increase less dramatic. 
 
 ## Future Improvements 
